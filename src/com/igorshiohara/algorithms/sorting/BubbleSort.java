@@ -1,4 +1,4 @@
-package com.igorshiohara.algorithm.sorting;
+package com.igorshiohara.algorithms.sorting;
 
 import java.util.Arrays;
 
